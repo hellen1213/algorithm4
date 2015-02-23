@@ -1,0 +1,10 @@
+1.This is done by Yanan Liang<hellenliang0605@gmail.com>
+
+2.For the I/O of this assignment, I just hard code the data.
+
+3.I used a vector to contain the path between states. for example,
+array[i][j] is the distance from city_i to city_j
+
+4. I used floyd algorithm to find the shortest path.
+
+5.For the testing, just type in "./Find.exe" on terminal, and it will give out the result for the shortest path.
